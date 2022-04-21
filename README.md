@@ -1,5 +1,5 @@
 # diagrams
-Mainly drawio diagrams.
+Mainly drawio diagrams for the vmuxIO project.
 
 ## DrawIO Links
 Edit the drawio diagrams directly in DrawIO and then commit the changes back to this repository, just click on the respective link below:
