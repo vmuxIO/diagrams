@@ -1,2 +1,6 @@
 # diagrams
-Mainly drawio diagrams. You can use DrawIO directly with GitHub, for example: https://app.diagrams.net/?mode=github#HvmuxIO%2Fdiagrams%2Fmain%2Ftestsystem.drawio
+Mainly drawio diagrams.
+
+## DrawIO Links
+Edit the drawio diagrams directly with DrawIO via the following links:
+- [testsystem.drawio](https://app.diagrams.net/?mode=github#HvmuxIO%2Fdiagrams%2Fmain%2Ftestsystem.drawio)
