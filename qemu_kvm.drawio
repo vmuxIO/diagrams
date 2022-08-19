@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T19:10:07.308Z" agent="5.0 (X11)" etag="acbenL-v83UcoGkq4nPx" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T19:12:39.311Z" agent="5.0 (X11)" etag="qqoLwUQY0NPdO4hb9BJx" version="20.2.5" type="github">
   <diagram id="I_HhycaSbU6Y9DN1pas2" name="Page-1">
-    <mxGraphModel dx="1422" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="800" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
         <mxCell id="VZu2di2uU0qUiYQAbAui-84" value="/dev/kvm" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VZu2di2uU0qUiYQAbAui-86" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.58;arrowHead=19.56;dx2=7.01;fontSize=15;strokeWidth=1;rotation=-180;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VZu2di2uU0qUiYQAbAui-86" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.58;arrowHead=19.56;dx2=7.01;fontSize=15;strokeWidth=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="287.5" y="282.5" width="20" height="35" as="geometry" />
         </mxCell>
         <mxCell id="VZu2di2uU0qUiYQAbAui-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;curved=1;exitX=0.325;exitY=1.043;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VZu2di2uU0qUiYQAbAui-87">
@@ -207,7 +207,7 @@
         <mxCell id="VZu2di2uU0qUiYQAbAui-113" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=2;" edge="1" parent="1" source="VZu2di2uU0qUiYQAbAui-94" target="VZu2di2uU0qUiYQAbAui-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VZu2di2uU0qUiYQAbAui-94" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.58;arrowHead=19.56;dx2=6.83;fontSize=15;strokeWidth=1;rotation=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VZu2di2uU0qUiYQAbAui-94" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=4.58;arrowHead=19.56;dx2=6.83;fontSize=15;strokeWidth=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="277.5" width="20" height="35" as="geometry" />
         </mxCell>
         <mxCell id="VZu2di2uU0qUiYQAbAui-97" value="vCPU Threads" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;rotation=0;" vertex="1" parent="1">
