@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T14:31:22.502Z" agent="5.0 (X11)" etag="mXRqZyz05CRcYQf33Hn7" version="20.2.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-22T14:31:45.740Z" agent="5.0 (X11)" etag="YuEw8Gc2V2JfUmNuvpZC" version="20.2.4" type="github" pages="5">
   <diagram id="m2XXSF4_xYEx4FLViuLD" name="Physical NIC">
     <mxGraphModel dx="1102" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7o69czk-2l76WNe_kWNi-14" value="Cable: Coaxial DAC 10G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AjkZcS029HaDzalcUuGC-0">
+        <mxCell id="7o69czk-2l76WNe_kWNi-14" value="&lt;b&gt;Cable&lt;/b&gt;: Coaxial DAC 10G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AjkZcS029HaDzalcUuGC-0">
           <mxGeometry x="330" y="330" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7o69czk-2l76WNe_kWNi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="AjkZcS029HaDzalcUuGC-0" source="7o69czk-2l76WNe_kWNi-16" target="7o69czk-2l76WNe_kWNi-8">
@@ -290,7 +290,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dJRLU-GFVjw5d9iwofU8-15" value="Cable: Coaxial DAC 10G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dJRLU-GFVjw5d9iwofU8-2">
+        <mxCell id="dJRLU-GFVjw5d9iwofU8-15" value="&lt;b&gt;Cable&lt;/b&gt;: Coaxial DAC 10G" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dJRLU-GFVjw5d9iwofU8-2">
           <mxGeometry x="330" y="330" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dJRLU-GFVjw5d9iwofU8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="dJRLU-GFVjw5d9iwofU8-2" source="dJRLU-GFVjw5d9iwofU8-17" target="dJRLU-GFVjw5d9iwofU8-9">
