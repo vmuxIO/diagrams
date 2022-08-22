@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T14:47:29.632Z" agent="5.0 (X11)" etag="6ZGg7Pfh5ba-Vlvv8O5P" version="20.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-22T14:48:22.734Z" agent="5.0 (X11)" etag="OZ47IAMrmI013DHmgwD5" version="20.2.4" type="github" pages="7">
   <diagram id="m2XXSF4_xYEx4FLViuLD" name="Physical NIC">
     <mxGraphModel dx="1102" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -489,6 +489,9 @@
         </mxCell>
         <mxCell id="hvp7GOGnkOp4Lo-JmKnQ-0" value="&lt;div&gt;&lt;b&gt;DPDK&lt;/b&gt;: &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;libmoon&lt;br&gt;&lt;/div&gt;&lt;div&gt;l2-reflector&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="zEMzE5QPdbc-_kLx_RiZ-1">
           <mxGeometry x="840" y="130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b4bDtb_vDQHP62iMELYo-4" value="&lt;font color=&quot;#999999&quot;&gt;PCI only&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=15;" vertex="1" parent="zEMzE5QPdbc-_kLx_RiZ-1">
+          <mxGeometry x="840" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
