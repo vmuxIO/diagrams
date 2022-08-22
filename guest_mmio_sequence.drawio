@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T18:56:42.425Z" agent="5.0 (X11)" etag="aSdR3mq4a1wn17rJ9IBr" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T18:57:09.470Z" agent="5.0 (X11)" etag="sSDnLtoFT44gKDNJNeTX" version="20.2.6" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1160" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cvAyE2h8K9ufWvZSYPs_-1" value="Device" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="80" height="530" as="geometry" />
+          <mxGeometry x="40" y="40" width="80" height="520" as="geometry" />
         </mxCell>
         <mxCell id="cvAyE2h8K9ufWvZSYPs_-2" value="QEMU" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="80" height="530" as="geometry" />
+          <mxGeometry x="200" y="40" width="80" height="520" as="geometry" />
         </mxCell>
         <mxCell id="cvAyE2h8K9ufWvZSYPs_-3" value="KVM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="80" height="530" as="geometry" />
+          <mxGeometry x="360" y="40" width="80" height="520" as="geometry" />
         </mxCell>
         <mxCell id="cvAyE2h8K9ufWvZSYPs_-4" value="vCPU" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="80" height="530" as="geometry" />
+          <mxGeometry x="520" y="40" width="80" height="520" as="geometry" />
         </mxCell>
         <mxCell id="cvAyE2h8K9ufWvZSYPs_-5" value="Guest Kernel" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="40" width="80" height="530" as="geometry" />
+          <mxGeometry x="680" y="40" width="80" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
