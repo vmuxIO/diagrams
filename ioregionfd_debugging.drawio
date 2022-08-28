@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T17:26:44.040Z" agent="5.0 (X11)" etag="UIpBeSt7YH9Txp2YkX05" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-28T17:37:06.359Z" agent="5.0 (X11)" etag="hnlqf56b-SzYM4vqVV9U" version="20.2.7" type="github">
   <diagram id="a-QX8mBSMtBPi-ePR0x0" name="Page-1">
     <mxGraphModel dx="677" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="520" math="0" shadow="0">
       <root>
@@ -25,11 +25,20 @@
         <mxCell id="VQPmKQ6DlBFONKVE424w-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kernel Space&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-11">
           <mxGeometry y="60" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-29" value="&lt;div align=&quot;left&quot;&gt;KVM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-11">
+          <mxGeometry x="100" y="70" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-30" value="&lt;div align=&quot;left&quot;&gt;QEMU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-11">
+          <mxGeometry x="100" y="20" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-31" value="GDB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-11">
+          <mxGeometry x="350" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="200" width="360" height="120" as="geometry" />
+          <mxGeometry x="140" y="200" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-12">
-          <mxGeometry width="360" height="120" as="geometry" />
+          <mxGeometry width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VQPmKQ6DlBFONKVE424w-12" source="VQPmKQ6DlBFONKVE424w-13" target="VQPmKQ6DlBFONKVE424w-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -46,8 +55,23 @@
         <mxCell id="VQPmKQ6DlBFONKVE424w-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kernel Space&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-12">
           <mxGeometry y="60" width="65.45454545454545" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-24" value="&lt;div align=&quot;left&quot;&gt;KVM&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-12">
+          <mxGeometry x="210" y="70" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-25" value="ioregionfd" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-12">
+          <mxGeometry x="250" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-26" value="&lt;div align=&quot;left&quot;&gt;QEMU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-12">
+          <mxGeometry x="180" y="20" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-27" value="Custom VirtIOMMIO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-12">
+          <mxGeometry x="240" y="25" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-28" value="GDB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-12">
+          <mxGeometry x="90" y="20" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="40" width="280" height="120" as="geometry" />
+          <mxGeometry x="200" y="40" width="280" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-19" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-18">
           <mxGeometry width="280" height="120" as="geometry" />
@@ -66,6 +90,15 @@
         </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-23" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Kernel Space&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-18">
           <mxGeometry y="60" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-51" value="BusyBox" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-18">
+          <mxGeometry x="120" y="20" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-43" value="devmem" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-18">
+          <mxGeometry x="180" y="25" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VQPmKQ6DlBFONKVE424w-52" value="virtio-net-device" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="VQPmKQ6DlBFONKVE424w-18">
+          <mxGeometry x="150" y="100" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
