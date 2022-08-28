@@ -8,7 +8,7 @@ Edit the drawio diagrams directly in DrawIO and then commit the changes back to 
 - [mmio_and_pmio.drawio](https://app.diagrams.net/?mode=github#HvmuxIO%2Fdiagrams%2Fmain%2Fmmio_and_pmio.drawio)
 - [qemu_kvm.drawio](https://app.diagrams.net/?mode=github#HvmuxIO%2Fdiagrams%2Fmain%2Fqemu_kvm.drawio)
 - [guest_mmio_sequence.drawio](https://app.diagrams.net/?mode=github#HvmuxIO%2Fdiagrams%2Fmain%2Fguest_mmio_sequence.drawio)
-- [debugging_ioregionfd.drawio](https://app.diagrams.net/?mode=github#HvmuxIO%2Fdiagrams%2Fmain%2Fdebugging_ioregionfd.drawio)
+- [ioregionfd_debugging.drawio](https://app.diagrams.net/?mode=github#HvmuxIO%2Fdiagrams%2Fmain%2Fioregionfd_debugging.drawio)
 
 ## Output
 The exported diagrams are kept as PDFs in `pdfs/`. We use PDFs because they contain the diagram as vector graphic, but unlike SVGs can be included in TeX out of the box.
