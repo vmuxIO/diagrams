@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T17:56:48.285Z" agent="5.0 (X11)" etag="gEE1Enmuh-_4MsZgXcTo" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-28T17:57:06.940Z" agent="5.0 (X11)" etag="PSfZ-g0jKqFF-Q6p4jte" version="20.2.7" type="github">
   <diagram id="a-QX8mBSMtBPi-ePR0x0" name="Page-1">
-    <mxGraphModel dx="1185" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" math="0" shadow="0">
+    <mxGraphModel dx="331" dy="184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="305" y="270" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-26" value="&lt;div align=&quot;left&quot;&gt;&amp;nbsp; QEMU&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="230" y="210" width="200" height="30" as="geometry" />
+          <mxGeometry x="230" y="210" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VQPmKQ6DlBFONKVE424w-27" value="VirtIOMMIO (ioregionfd enhanced)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="270" y="215" width="160" height="20" as="geometry" />
