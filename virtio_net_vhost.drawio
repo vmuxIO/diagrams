@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T15:07:53.624Z" agent="5.0 (X11)" etag="Un0w0nz31RttKL5LeS8c" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-04T15:08:20.461Z" agent="5.0 (X11)" etag="vCVkMDfa53tPg6Tv3_NT" version="20.2.8" type="github">
   <diagram id="oZOYW1duo3crIYeeSJwp" name="Page-1">
     <mxGraphModel dx="813" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
           <mxGeometry x="200" y="370" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YKHGhaV-Iw9WPsnm1_ly-34" value="&lt;div&gt;QEMU&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="100" y="50" width="160" height="120" as="geometry" />
+          <mxGeometry x="90" y="50" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YKHGhaV-Iw9WPsnm1_ly-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=12;startArrow=classic;startFill=1;" parent="1" source="YKHGhaV-Iw9WPsnm1_ly-32" target="YKHGhaV-Iw9WPsnm1_ly-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YKHGhaV-Iw9WPsnm1_ly-32" value="virtio-pci proxy" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="120" y="120" width="120" height="30" as="geometry" />
+          <mxGeometry x="110" y="120" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YKHGhaV-Iw9WPsnm1_ly-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="340" y="370" width="80" height="60" as="geometry" />
@@ -151,7 +151,7 @@
           <mxGeometry x="175" y="390" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BuKsE_VjunbPpSj5-xp7-1" value="&lt;div&gt;virtio-net device&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="90" width="120" height="30.31" as="geometry" />
+          <mxGeometry x="110" y="90" width="120" height="30.31" as="geometry" />
         </mxCell>
         <mxCell id="BuKsE_VjunbPpSj5-xp7-3" value="&lt;div&gt;virtio-net driver&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="309.69" width="120" height="30.31" as="geometry" />
