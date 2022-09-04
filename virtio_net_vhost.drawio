@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T15:08:20.461Z" agent="5.0 (X11)" etag="vCVkMDfa53tPg6Tv3_NT" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-04T15:11:18.252Z" agent="5.0 (X11)" etag="8zXHzD6f0LnrLS90oVAr" version="20.2.8" type="github">
   <diagram id="oZOYW1duo3crIYeeSJwp" name="Page-1">
     <mxGraphModel dx="813" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="500" pageHeight="500" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="YKHGhaV-Iw9WPsnm1_ly-48" value="MMIO/PMIO register access" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;labelBackgroundColor=none;" parent="YKHGhaV-Iw9WPsnm1_ly-45" vertex="1" connectable="0">
           <mxGeometry x="-0.0162" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" y="-12" as="offset" />
+            <mxPoint x="-21" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YKHGhaV-Iw9WPsnm1_ly-32" value="virtio-pci proxy" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
